@@ -88,6 +88,12 @@ class HommePage extends StatelessWidget {
     {
       "video": "assets/videos/video2.mp4",
     },
+    {
+      "video": "assets/videos/video3.mp4",
+    },
+    {
+      "video": "assets/videos/video4.mp4",
+    },
   ];
   @override
   Widget build(BuildContext context) {
